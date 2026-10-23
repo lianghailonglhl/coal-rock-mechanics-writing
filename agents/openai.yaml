@@ -1,0 +1,4 @@
+interface:
+  display_name: "煤岩力学论文写作"
+  short_description: "基于30篇煤岩力学论文提炼术语体系、论证逻辑和专业写法"
+  default_prompt: "Use $coal-rock-mechanics-writing to draft a rigorous coal-rock mechanics manuscript section from my data."
